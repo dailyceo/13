@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA5CbF02629F6cb8d5208f7BDb3d764f1D9658f2c",
+  "SCAN_LINK": "https://etherscan.io/0xA5CbF02629F6cb8d5208f7BDb3d764f1D9658f2c",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "AyaMei",
+  "SYMBOL": "AYA",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.10000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/aya-mei",
+  "SHOW_BACKGROUND": true
+}
